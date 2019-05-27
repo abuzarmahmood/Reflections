@@ -1,9 +1,11 @@
 What happens when you initialize a repository? Why do you need to do it?
 
-So that git can keep track of the files in the repository
+--So that git can keep track of the files in the repository
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+
+--It allows separation of logical changes for each commit rather than including all the files in the respository.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
