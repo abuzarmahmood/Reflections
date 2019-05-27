@@ -1,0 +1,17 @@
+This shit is cool XD
+
+Having access to older versions can help when shit breaks and you wanna undo
+
+Manual commits allow you the right amount of flexibility.
+
+Loggind multiple files in the same commit allows you to follow logical 
+edits in the entire codebase as a whole.
+
+Git log == description of all the changes made
+Git diff == actual comparison of contents of file
+
+Since you can always got back to an earlier version if you broke something, you'll be confident making changes no matter what you edit.
+
+Just backing up shit.
+
+
